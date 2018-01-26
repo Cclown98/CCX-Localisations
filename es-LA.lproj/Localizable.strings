@@ -1,14 +1,14 @@
 <dict>
     <key>DARK_MODE_ON</key>
-    <string>Modo Nocturno: Sí</string>
+    <string>Modo Nocturno: Activado</string>
     <key>DARK_MODE_OFF</key>
-    <string>Modo Nocturno: No</string>
+    <string>Modo Nocturno: Desactivado</string>
     <key>NIGHT_SHIFT_ON</key>
-    <string>Night Shift: Sí</string>
+    <string>Night Shift: Activado</string>
     <key>NIGHT_SHIFT_OFF</key>
-    <string>Night Shift: No</string>
+    <string>Night Shift: Desactivado</string>
     <key>AIRPLAY_MIRRORING</key>
-    <string>AirPlay\nDuplicando</string>
+    <string>AirPlay \nMirroring</string>
     <key>AIRDROP_OFF</key>
     <string>AirDrop:\nNo Recibir</string>
     <key>AIRDROP_CONTACTS</key>
